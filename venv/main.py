@@ -22,7 +22,7 @@ speedX = 0
 speedY = 0
 
 # przeciwnik
-przeciwnik = pygame.image.load("assets/sado.png")
+przeciwnik = pygame.image.load("assets/leonardo.png")
 enemyX = random.randint(0, 736)
 enemyY = random.randint(20, 250)
 enemySpeedX = 0.3
